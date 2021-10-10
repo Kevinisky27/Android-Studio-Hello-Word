@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Studio - Hello Word</string>
+    <string name="app_nombre">Nombre</string>
+    <string name="app_send">Enviar</string>
+    <string name="app_saludo">"Saludo de Bienvenida al Usuario "</string>
+    <string name="app_Diseinf">Diseñado por Kevininsky</string>
+</resources>
