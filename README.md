@@ -1,5 +1,6 @@
 # APP Hello Word - Android Studio 
-<img width="433" alt="Captura de Pantalla 2021-10-09 a la(s) 9 15 20 p  m" src="https://user-images.githubusercontent.com/60667480/136705147-b7e904c4-e43f-45f0-9f6e-1e7cc73d8e86.png">
+>Está Aplicacion fue creada utilizando las herramientas brindas por Android Studio. 
 
-<img width="433" alt="Captura de Pantalla 2021-10-09 a la(s) 9 16 58 p  m" src="https://user-images.githubusercontent.com/60667480/136705172-96e7c075-8098-40a0-95d5-30f2988428b3.png">
+<img width="963" alt="Captura de Pantalla 2021-10-10 a la(s) 10 54 59 a m" src="https://user-images.githubusercontent.com/60667480/136705738-e11a1eee-310b-4f95-bbaa-d784ebdd2a1a.png">
+<img width="963" alt="Captura de Pantalla 2021-10-10 a la(s) 10 55 10 a  m" src="https://user-images.githubusercontent.com/60667480/136705773-fb5d4d11-4d88-4847-95d2-b1afd56b6286.png">
 
